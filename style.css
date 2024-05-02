@@ -1,0 +1,29 @@
+#start-btn
+{
+   width: 40%;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(116, 175, 214);
+ }
+ #logo_img
+ {
+    width: 150px;
+    border-radius: 100px;
+ }
+ #textbox
+ {
+    width: 300px;
+ }
+ #logo2{
+    height:250px;
+ }
+ #vermelho{
+    color:red;
+ }
+ body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+ }
